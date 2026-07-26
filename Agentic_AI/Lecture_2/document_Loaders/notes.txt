@@ -1,0 +1,25 @@
+JSON-RPC 2.0✅
+MCP Architecture✅
+Lifecycle✅
+Tool Discovery✅
+Tool Schemas✅
+Resources
+Prompts
+Sampling
+Transport Layer✅
+Notifications
+Progress Reporting
+Cancellation✅
+Logging
+Error Handling✅
+Security✅
+Authentication & Authorization
+Async Programming
+Performance✅
+LLM Tool Selection & Planning
+Multi-step Tool Calling
+Production Deployment
+Build Real MCP Servers (Database, Files, Browser, Git, RAG)
+Build Your Own MCP Client
+Build Your Own MCP Framework
+Read and implement parts of the MCP specification yourself.
